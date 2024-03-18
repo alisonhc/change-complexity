@@ -3,7 +3,8 @@ Here is the link to the 2023 TACL paper: https://direct.mit.edu/tacl/article/doi
 
 The data and models are accessible via [this Google Drive link](https://drive.google.com/drive/folders/1FktOG3VBG7vRLbUC89mezXIUJZHTkndB?usp=sharing). 
 
-## Explanation of terms used in the Google Drive folder
+## Explanation of terms used in the *Data* folder in Google Drive
+
 | Term  | Explanation |
 | ------------- |:-------------:|
 | up      | Has the task of complexification     |
