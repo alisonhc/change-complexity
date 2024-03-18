@@ -7,9 +7,9 @@ The data and models are accessible via [this Google Drive link](https://drive.go
 
 | Term  | Explanation |
 | ------------- |:-------------:|
-| up      | Has the task of complexification     |
-| down      | Has the task of simplification   |
-| same      | Has the task of same-level paraphrasing    |
+| up      | This dataset contains the task of complexification     |
+| down      | This dataset contains the task of simplification   |
+| same      | This dataset contains the task of same-level paraphrasing    |
 | REL      |   The relative prompting prompts are built into the dataset.  |
 | ABS      | The absolute prompting prompts are built into the dataset. |
 | REVERSE INP-OUT      | For training, you will need to reverse the input and output (input should be para instead of ori)   |
