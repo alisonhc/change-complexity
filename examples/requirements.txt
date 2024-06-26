@@ -1,0 +1,5 @@
+overrides=7.7.0
+allennlp=2.10.1
+allennlp-models=2.10.1
+numpy 
+jsonlines
